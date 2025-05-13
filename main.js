@@ -12,7 +12,7 @@ function createWindow() {
     })
 
     //Carregar arquivo HTML na janela
-    window.loadFile('index.html');
+    window.loadFile('src/pages/index.html');
 }
 
 //Evento que é acionado quando o electron está pronto.
