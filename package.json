@@ -1,0 +1,16 @@
+{
+  "name": "template-app-electron",
+  "version": "1.0.0",
+  "description": "Template base para criar aplicações desktop com Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electronmon"
+  },
+  "keywords": [],
+  "author": "Isaque Nicéas",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.2.0"
+  }
+}

@@ -1,0 +1,5 @@
+*{
+   margin: 0; /*Espacamentos externos */
+   padding: 0; /*Espacamentos internos */
+   box-sizing: border-box; /*Tamanho da caixa */
+}
